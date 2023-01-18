@@ -3,7 +3,7 @@
   "Name": "DalamudFontReplacer",
   "Punchline": "Replaces dalamud's default font",
   "Description": "Replaces dalamud's default font(and glyph range) with NotoSansCJKtc-Medium 17pt in order to display Chinese characters properly.\nInstalling this and the font replacing effects immediately.\n If you don't want to replace font anymore, please disable this plugin and restart the game.\nFont size, path and glyph range can be changed in plugin config file.(fork from https://github.com/akira0245/DalamudCNAdapter for TW font)",
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "RepoUrl": "https://github.com/qwer20108/DalamudTWAdapter",
   "Tags": [
     "akira",
